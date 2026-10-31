@@ -1,0 +1,4 @@
+pandas>=2.0
+streamlit>=1.30
+vaderSentiment>=3.3.2
+youtube-comment-downloader>=0.1.76
